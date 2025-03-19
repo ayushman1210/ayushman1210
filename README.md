@@ -6,7 +6,8 @@
 - instagram-->ayushman121004
 - email-->ayushmangupta422@gmail.com
 - 😄 Pronouns: ayushman
-- ⚡ what i love : love to watch movie webseries and cricket 
+- ⚡ what i love : love to watch movie webseries and cricket
+- Cook code sleep 
 
 <!---
 ayushman1210/ayushman1210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
