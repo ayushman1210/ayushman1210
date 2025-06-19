@@ -1,6 +1,6 @@
 <!-- Elegant GitHub Profile README -->
 
-<h1 align="center">✨ Welcome! I'm [Your Name] ✨</h1>
+<h1 align="center">✨ Welcome! I'm Ayushman ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushman1210&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1210&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
