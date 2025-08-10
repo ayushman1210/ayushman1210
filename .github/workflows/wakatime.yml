@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{waka_c1418b65-011c-431b-9731-bba79d6ddb29}}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
           SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_EDITORS: true
