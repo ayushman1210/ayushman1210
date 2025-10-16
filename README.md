@@ -18,12 +18,6 @@
   <img src="https://holopin.io/api/user/board?user=ayushman1210" width="800" />
 </p>
 
-<p align="center">
-  <!-- Highlighted individual Hacktoberfest badges -->
-  <img src="https://holopin.io/api/badge/cmftdqbly001il704olhg13kg" width="120" />
- <img src="https://holopin.io/api/badge/cmgroogi5000pl704rv2b11r1" width="120" alt="Holopin Badge"/>
-</p>
-
 
 
 <h1>✨ I'm Ayushman ✨</h1>
