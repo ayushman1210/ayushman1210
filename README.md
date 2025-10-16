@@ -11,6 +11,15 @@
       ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
+## 🏅 Hacktoberfest & Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@ayushman1210" target="_blank">
+    <img src="https://holopin.me/ayushman1210" alt="@ayushman1210 Holopin badges" width="800"/>
+  </a>
+</div>
+
+
 <h1>✨ I'm Ayushman ✨</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Lifelong+Learner+%F0%9F%93%9A;Tech+Explorer+%F0%9F%94%8D;Inspired+by+My+Mother+%F0%9F%92%96" alt="Typing SVG" />
