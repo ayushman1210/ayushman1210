@@ -11,13 +11,19 @@
       ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
-## 🏅 Hacktoberfest & Holopin Badges
+## 🌸 My Holopin Achievements
 
-<div align="center">
-  <a href="https://holopin.io/@ayushman1210" target="_blank">
-    <img src="https://holopin.me/ayushman1210" alt="@ayushman1210 Holopin badges" width="800"/>
-  </a>
-</div>
+<p align="center">
+  <!-- Dynamic full board -->
+  <img src="https://holopin.io/api/user/board?user=ayushman1210" width="800" />
+</p>
+
+<p align="center">
+  <!-- Highlighted individual Hacktoberfest badges -->
+  <img src="https://holopin.io/api/badge/cmftdqbly001il704olhg13kg" width="120" />
+  <img src="https://holopin.io/api/badge/cmgroogi5000pl704rv2b11r1" width="120" />
+</p>
+
 
 
 <h1>✨ I'm Ayushman ✨</h1>
